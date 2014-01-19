@@ -1,0 +1,10 @@
+To Install RIVER follow these steps (I have yet to try a cold install, so these may or may not work).
+
+1.  Unpack all files to the desired directory on your webserver
+2.  Create the database structure using river.sql
+3.  Create user accounts in the river_users table
+4.  You should be ready to log-in and begin using the system.
+
+Please report any problems to the bug tracking system at http://sourceforge.net/projects/r-i-v-e-r/
+
+

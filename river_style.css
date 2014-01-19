@@ -1,0 +1,12 @@
+body {
+    background-color: #ffff66
+}
+
+p,h1,h2,h3,h4,h5,h6,fieldset,ul,li,ol {
+    color: black;
+    font-family: garamond, "gill sans", sans-serif
+}
+a:link {color: black; text-decoration: none}
+a:visited {color: black; text-decoration: none}
+a:hover {color: red; text-decoration: underline}
+a:active {color: red; text-decoration: underline}
